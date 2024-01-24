@@ -4,15 +4,24 @@ https://www.avito.ru/web/1/js/items?locationId=629990&categoryId=98 - катег
 https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=31 - Москва ПК
 https://www.avito.ru/web/1/js/items?locationId=633540&categoryId=31 - Краснодар ПК
 
-https://www.avito.ru/web/1/js/items?locationId=629990&name=игровой компьютер
+https://www.avito.ru/web/1/js/items?locationId=653240&categoryId=31
 
 
-https://www.avito.ru/web/1/js/items?locationId=633540&name=игровой компьютер
+https://www.avito.ru/web/1/js/items?locationId=653240&name=игровой компьютер
+
+
+https://www.avito.ru/web/1/js/items?locationId=633540&name=системный блок
 
 locationId=629990 - Калинград
 
+https://www.avito.ru/web/1/js/items?address=Воронежская обл., Воронеж&categoryId=31
+
 637640 - Москва
 633540 - Краснодар
+630090 - Калининград
+34241905 - Питер?
+653240 - Самара?
+
 
 
 categoryId=98 - категория ноутбуки

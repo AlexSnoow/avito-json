@@ -29,12 +29,11 @@ def transform_item(input_item):
         profile_info = user_info_steps[0].get("payload", {})
         output_item["profileLink"] = profile_info.get("profile", {}).get("link", None)
         output_item["profileName"] = profile_info.get("profile", {}).get("title", None)
-        output_item["profileRatingScore"] = profile_info.get("rating", {}).get(
-            "score", None
-        )
-        output_item["profileRatingSummary"] = profile_info.get("rating", {}).get(
-            "summary", None
-        )
+        try:
+            output_item["profileRatingScore"] = profile_info.get("rating", {}).get("score", None)
+            output_item["profileRatingSummary"] = profile_info.get("rating", {}).get("summary", None)
+        except:
+            pass
     else:
         # Если "UserInfoStep" пуст, устанавливаем значения по умолчанию
         output_item["profileLink"] = None
