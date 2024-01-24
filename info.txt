@@ -1,13 +1,20 @@
 https://www.avito.ru/web/1/js/items?locationId=629990&name=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%B8
 https://www.avito.ru/web/1/js/items?locationId=629990&categoryId=98 - категория ноутбуки
 
+https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=31 - Москва ПК
+
+https://www.avito.ru/web/1/js/items?locationId=637640&name=игровой компьютер
+
 locationId=629990 - Калинград
 
 637640 - Москва ?
+categoryId=98 - категория ноутбуки
+categoryId=31 - ПК
 
 https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=98
 
 https://www.avito.ru/shops/322795430/blockForItem?baseItemId=3747658504 - инфа по 1 объявлению
+
 
 
 
