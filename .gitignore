@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,visualstudiocode
 import.json
 export.json
+config.py
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/

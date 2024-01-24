@@ -2,18 +2,30 @@ https://www.avito.ru/web/1/js/items?locationId=629990&name=%D0%BD%D0%BE%D1%83%D1
 https://www.avito.ru/web/1/js/items?locationId=629990&categoryId=98 - категория ноутбуки
 
 https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=31 - Москва ПК
+https://www.avito.ru/web/1/js/items?locationId=633540&categoryId=31 - Краснодар ПК
 
-https://www.avito.ru/web/1/js/items?locationId=637640&name=игровой компьютер
+https://www.avito.ru/web/1/js/items?locationId=629990&name=игровой компьютер
+
+
+https://www.avito.ru/web/1/js/items?locationId=633540&name=игровой компьютер
 
 locationId=629990 - Калинград
 
-637640 - Москва ?
+637640 - Москва
+633540 - Краснодар
+
+
 categoryId=98 - категория ноутбуки
 categoryId=31 - ПК
 
 https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=98
 
 https://www.avito.ru/shops/322795430/blockForItem?baseItemId=3747658504 - инфа по 1 объявлению
+
+
+Поиск id города
+https://www.avito.ru/krasnodar/nastolnye_kompyutery/igrovoy_pk_s_monitorom_gtx_1070_8_gb_3681358576
+f12 - приложение - локальное хранилище - ключ(recentSearch) - Значение
 
 
 
