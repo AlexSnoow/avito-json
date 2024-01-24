@@ -1,3 +1,10 @@
+Москва 637640
+
+https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=31
+https://www.avito.ru/web/1/js/items?locationId=637640&name=игровой компьютер
+https://www.avito.ru/web/1/js/items?locationId=637640&name=игровой ПК
+https://www.avito.ru/web/1/js/items?locationId=637640&name=системный блок
+
 https://www.avito.ru/web/1/js/items?locationId=629990&name=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%B8
 https://www.avito.ru/web/1/js/items?locationId=629990&categoryId=98 - категория ноутбуки
 
