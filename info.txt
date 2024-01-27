@@ -8,11 +8,17 @@ https://www.avito.ru/web/1/js/items?locationId=637640&name=системный б
 https://www.avito.ru/web/1/js/items?locationId=629990&name=%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%B8
 https://www.avito.ru/web/1/js/items?locationId=629990&categoryId=98 - категория ноутбуки
 
-https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=31 - Москва ПК
-https://www.avito.ru/web/1/js/items?locationId=633540&categoryId=31 - Краснодар ПК
+ПК:
+https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=31 - Москва
+https://www.avito.ru/web/1/js/items?locationId=633540&categoryId=31 - Краснодар
+https://www.avito.ru/web/1/js/items?locationId=34241905&categoryId=31 - Питер
+https://www.avito.ru/web/1/js/items?locationId=653240&categoryId=31 - Самара
 
-https://www.avito.ru/web/1/js/items?locationId=653240&categoryId=31
-
+Ноуты:
+https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=98 - Москва
+https://www.avito.ru/web/1/js/items?locationId=633540&categoryId=98 - Краснодар
+https://www.avito.ru/web/1/js/items?locationId=34241905&categoryId=98 - Питер
+https://www.avito.ru/web/1/js/items?locationId=653240&categoryId=98 - Самара
 
 https://www.avito.ru/web/1/js/items?locationId=653240&name=игровой компьютер
 
@@ -25,11 +31,11 @@ https://www.avito.ru/web/1/js/items?address=Воронежская обл., Во
 
 637640 - Москва
 633540 - Краснодар
-630090 - Калининград
+
 34241905 - Питер?
 653240 - Самара?
 
-
+630090 - Калининград
 
 categoryId=98 - категория ноутбуки
 categoryId=31 - ПК
