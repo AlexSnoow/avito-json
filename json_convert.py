@@ -1,9 +1,11 @@
+# json_convert.py
 import json
 
 
 def transform_item(input_item):
     output_item = {
         "id": input_item["id"],
+        "categoryId": input_item["categoryId"],
         "title": input_item["title"],
         "description": input_item["description"],
         "urlPath": "https://www.avito.ru" + input_item["urlPath"],
